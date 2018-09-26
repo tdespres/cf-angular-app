@@ -1,0 +1,6 @@
+---
+applications:
+- name: cf-angular-app
+  host: cf-angular-app
+  memory: 128M
+  buildpack: staticfile_buildpack
